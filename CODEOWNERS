@@ -1,3 +1,3 @@
-* @vehiclefits/owners
-/foo @vehiclefits/owners
-/bar @vehiclefits/contributors
+* @vehiclefits/test1
+/foo @vehiclefits/test1
+/bar @vehiclefits/test2
